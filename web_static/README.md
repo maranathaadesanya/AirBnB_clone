@@ -1,5 +1,6 @@
-#Background Context
-##Web static, what?
+# Background Context
+
+## Web static, what?
 
 Now that you have a command interpreter for managing your AirBnB objects, it’s time to make them alive!
 
